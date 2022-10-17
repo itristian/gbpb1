@@ -19,4 +19,4 @@ while a < b:
 a = (a*1.1)
 print(f'hes ran {round(a, 3)} km on his {daycount}th day')
 daycount += 1
-print(f'needed {daycount} days to run {b} km')
+print(f'needegfgdfgdgfgd {daycount} days to run {b} km')
